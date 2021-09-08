@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poem>
+    <Title>
+        <i><b>Leaves</b></i>
+    </Title>
+    <Author><i><b>Lloyd Schwartz</b></i>-1941-</Author>
+    <Space>1</Space>
+    <Verse num="1">
+        <line num="1">Every October it becomes important, no, <i>necessary</i></line>
+        <line num="2">to see the leaves turning, to be surrounded</line>
+        <line num="3">by leaves turning; it's not just the symbolism,</line>
+        <line num="4">to confront in the death of the year your death,</line>
+        <line num="5">one blazing farewell appearance, though the irony</line>
+        <line num="6">isn't lost on you that nature is most seductive</line>
+        <line num="7">when it's about to die, flaunting the dazzle of its</line>
+        <line num="8">incipient exit, an ending that at least so far</line>
+        <line num="9">the effects of human progress (pollution, acid rain)</line>
+        <line num="10">have not yet frightened you enough to make you believe</line>
+        <line num="11">is real; that is, you know this ending is a deception</line>
+        <line num="12">because of course nature is always renewing itself—</line>
+        <indent num="1">
+            <line num="13">the trees don't <i>die</i>, they just pretend,</line>
+        </indent>
+        <indent num="2">
+            <line num="14">go out in style, and return in style: a new style.</line>
+        </indent>
+    </Verse>
+    <Space>2</Space>
+    <Verse num="2">
+        <line num="1">Is it deliberate how far they make you go</line>
+        <line num="2">especially if you live in the city to get far</line>
+        <line num="3">enough away from home to see not just trees</line>
+        <line num="4">but only trees? The boring highways, roadsigns, high</line>
+        <line num="5">speeds, 10-axle trucks passing you as if they were</line>
+        <line num="6">in an even greater hurry than you to look at leaves:</line>
+        <line num="7">so you drive in terror for literal hours and it looks</line>
+        <line num="8">like rain, or <i>snow</i>, but it's probably just clouds</line>
+        <line num="9">(too cloudy to see any color?) and you wonder,</line>
+        <line num="10">given the poverty of your memory, which road had the</line>
+        <line num="11">most color last year, but it doesn't matter since</line>
+        <line num="12">you're probably too late anyway, or too early—</line>
+        <indent num="1">
+            <line num="13">whichever road you take will be the wrong one</line>
+        </indent>
+        <indent num="2">
+            <line num="14">and you've probably come all this way for nothing.</line>
+        </indent>
+    </Verse>
+    <Space>3</Space>
+    <Verse num="3">
+        <line num="1">You'll be driving along depressed when suddenly</line>
+        <line num="2">a cloud will move and the sun will muscle through</line>
+        <line num="3">and ignite the hills. It may not last. Probably</line>
+        <line num="4">won't last. But for a moment the whole world</line>
+        <line num="5">comes to. Wakes up. Proves it lives. It lives—</line>
+        <line num="6">
+            <i>red, yellow, orange, brown, russet, ocher, vermilion,</i>
+        </line>
+        <line num="7"><i>gold</i>. Flame and rust. Flame and rust, the permutations</line>
+        <line num="8">of burning. You're on fire. Your eyes are on fire.</line>
+        <line num="9">It won't last, you don't want it to last. You</line>
+        <line num="10">can't stand any more. But you don't want it to stop.</line>
+        <line num="11">It's what you've come for. It's what you'll</line>
+        <line num="12">come back for. It won't stay with you, but you'll</line>
+        <indent>
+            <line num="13">remember that it felt like nothing else you've felt</line>
+        </indent>
+        <indent>
+            <line num="14">or something you've felt that also didn't last.</line>
+        </indent>
+    </Verse>
+</Poem>
